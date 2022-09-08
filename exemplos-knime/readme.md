@@ -1,5 +1,5 @@
 # Disciplina de Data Science
-# (Cedido gentilmente e adaptado e do prof. Hermano Lustosa)
+(Cedido gentilmente e adaptado e do prof. Hermano Lustosa)
 
 Este repositório contém exemplos de workflows do [Knime](https://www.knime.com/) e alguns exemplos de datasets para serem utilizados em sala de aula. 
 
